@@ -1,0 +1,242 @@
+Joseph Michael Perez
+
+Manager & Senior Software Engineer | TS/SCI Orlando, FL
+
+JMP.Auth@gmail.com LinkedIn:
+https://www.linkedin.com/in/joseph-perez-23abb215
+
+SUMMARY:
+
+Manager and Senior Software Engineer with 20+ years across engineering
+and leadership, plus an MBA. Known for management and creativity, with
+specialties in C#/.NET (WPF, MVC) and SQL, and fast-rising AI/AIOps
+capability. Recent work includes AI-driven SRE automation at Disney and
+mission software for U.S. Special Operations Command as a Senior
+Forensic Developer. Trusted to lead teams, modernize stacks, and ship
+secure, reliable systems in DoD/TS-level environments. More detail
+available on LinkedIn.
+
+SECURITY CLEARANCE: Top Secret / Sensitive Compartmented Information
+(TS/SCI)
+
+EDUCATION:
+
+Full Sail University-Master of Entertainment Business (EBMS)-2011
+
+Full Sail University-Bachelor of Science, Game Development-2009
+
+CORE STRENGTHS:
+
+-Leadership & Delivery: Team management, stakeholder alignment,
+program/project management (PMP), Agile/Scrum/Kanban, roadmapping
+
+-Microsoft Stack: C#, .NET, ASP.NET MVC/Core, Web API, WPF/XAML, Razor,
+async/await, dependency injection
+
+-Data & Platforms: SQL Server (data modeling, indexing, performance
+tuning, stored procedures), REST/SOAP APIs; Oracle (exposure)
+
+-Cloud/DevOps: Azure (App Services, AAD, DevOps), CI/CD, Git/GitHub,
+Windows Server, Linux, Docker; Kubernetes (exposure)
+
+-SRE/AIOps & Ops: AIOps patterns, ServiceNow automation,
+observability/telemetry pipelines, monitoring/alerting, reliability
+engineering
+
+-AI/Automation: AI-assisted development, custom LLM integrations, Teams
+bot POCs, workflow automation
+
+-Frontend/Apps: WPF, HTML5/CSS, JavaScript, jQuery, Bootstrap, Angular
+(cert), React (experience), Unity; Unreal Engine (exposure)
+
+-Preferred-MVC Stack: C# ASP.NET .NET Core HTML5 JavaScript Razor SQL
+CSS jQuery JSON
+
+-Preferred-WPF Stack: C# .NET Core WPF/XAML SQL JSON
+
+-Preferred Engines: Unity Unreal
+
+CERTIFICATIONS:
+
+-Project Management Professional (PMP)
+
+-DoD Derivative Classification
+
+-DoD Mandatory Controlled Unclassified Information (CUI) Training
+
+-Angular (incl. Reactive Forms)
+
+TECHNICAL SKILLS:
+
+-Languages: C#, SQL/T-SQL, JavaScript, Python, PowerShell, Bash, C++,
+Java, Rust
+
+-Frameworks/Runtime: .NET, ASP.NET MVC/Core, Web API, WPF/XAML, Node.js,
+Unity; Unreal Engine (exposure); Angular, React, Bootstrap,
+HTML5/CSS/Sass
+
+-Cloud/DevOps/Ops: Azure (App Services, AAD, DevOps), AWS (exposure),
+Docker, CI/CD, Git/GitHub, Windows Server, Linux, ServiceNow, AIOps,
+PowerShell scripting
+
+-Data & Integration: Microsoft SQL Server, JSON/XML/XAML, SOAP/REST,
+OpenAPI/Swagger
+
+-Architecture & Security: Microservices (experience), secure coding,
+threat modeling (exposure), code reviews
+
+-Tooling & Productivity: Postman, Jira, Confluence, Microsoft Teams,
+Google Workspace, OneDrive/Dropbox, password managers
+(1Password/Bitwarden/LastPass), Canva
+
+SELECTED SOFT SKILLS:
+
+Leadership, creativity, communication, problem-solving, strategic
+planning, adaptability, empathy, collaboration
+
+EXPERIENCE:
+
+Disney Experiences Celebration, FL Jun 2025 - Oct 2025
+
+Lead Software Engineer (SRE)
+
+-Advanced AI-driven automation and reliability within SRE; aligned
+executive stakeholders on AI policy and execution.
+
+-Built an AI prototype that automated routine tooling tasks and
+generated reports, reducing manual toil (POC).
+
+-Implemented an AIOps flow enabling AI-powered ServiceNow ticket
+creation within a custom pipeline (POC).
+
+-Prototyped a "cruise-to-shore" telemetry API validated via Postman for
+intermittent connectivity; documented dashboard integration approach
+(POC).
+
+-Built and validated a custom LLM-connected Microsoft Teams bot for
+assisted operations (POC). Tech: .NET, C#, Web API, Azure DevOps,
+ServiceNow, Postman, PowerShell, Git/GitHub, CI/CD
+
+Technological Imperium Consulting Florida Feb 2019 - May 2025
+
+Senior Full-Stack Engineer & Product Manager (Consultant)
+
+-Led full-stack .NET work for clients (e.g., Humana Military, Seven Plus
+Financial, Basic Fun); owned architecture, delivery, and stakeholder
+communication.
+
+-Increased code quality by ~85% and reduced bug rate by ~35% via
+comprehensive code reviews and modernization.
+
+-Migrated/optimized SQL Server; improved query performance by ~50%
+through indexing, tuning, and stored procedures.
+
+-Delivered enterprise solutions end-to-end; translated
+executive/business goals into actionable technical plans and releases.
+
+-Delivered classified solutions with automated approvals under strict
+protocols; Agile/Scrum delivery.
+
+Humana (Humana Military) Remote/US Sep 2024 - Apr 2025
+
+Senior Software Development Engineer
+
+-Architected and built secure, scalable healthcare applications for
+TRICARE using .NET Core, ASP.NET MVC/Web API.
+
+-Integrated RESTful services; adhered to HIPAA/DoD security practices
+and vulnerability remediation.
+
+-Improved SQL performance by >50% via schema refactors, indexing, and
+stored procedure optimizations.
+
+-Led Agile ceremonies and supported CI/CD in Azure DevOps to reduce lead
+time to release.
+
+-Implemented monitoring/automation to reduce downtime and manual
+intervention. Tech: .NET Core, ASP.NET MVC/Web API, C#, SQL
+Server/T-SQL, Azure DevOps
+
+Quiet Professionals (via Deploy360/Tkacz Engineering) Tampa, FL Feb
+2021 - Mar 2024
+
+Senior Forensic Developer (USSOCOM)
+
+-Supported U.S. Special Operations Command (TS/SCI) delivering
+applications, services, and databases for forensic/mission needs.
+
+-Directed AI-assisted initiatives (ChatGPT, custom models) that
+increased development quality ~30% and productivity ~20%.
+
+-Led AI-enabled projects with $5M+ budgets; streamlined workflows and
+resource allocation, doubling efficiency in targeted areas.
+
+-Managed/mentored a 10-person developer team; increased throughput ~40%
+via coaching, standards, and automation.
+
+-Shipped 15+ mission-critical apps/services across .NET and SQL;
+resolved high-stakes issues saving ~$2M in potential costs.
+
+-Engineered advanced OS integrations for Windows, Linux, and embedded
+systems to meet specialized operational requirements. Tech: .NET
+(WPF/MVC/Web API), C#, SQL Server, Windows/Linux, PowerShell, Git, CI/CD
+
+JHT Incorporated Orlando, FL Mar 2020 - Jan 2021
+
+Senior Programmer & Programming Team Manager
+
+-Led a team of 3 to deliver Unity-based, touch-enabled 3D training
+simulations for DoD/partner agencies.
+
+-Increased client satisfaction ~70% through QA rigor and performance
+tuning; improved runtime performance ~40%.
+
+-Delivered a $2M+ effort under budget and ahead of schedule; expanded
+multi-platform reach (Windows, iOS, Android).
+
+SRT Group (SR Technologies) Sunrise, FL Jan 2019 - Feb 2019
+
+Senior Programmer
+
+-Implemented WPF for responsive UIs; applied aspect-oriented programming
+to improve modularity and maintainability.
+
+-Delivered classified application milestones on time within a two-month
+engagement.
+
+Earlier Experience (2005-2018):
+
+-Total Compliance Network-DBA & Web/App Developer (2014-2017): Owned MVC
+websites and SQL Server; +40% page-load improvements; WPF tablet app;
+Windows Server/Hyper-V; ~25% downtime reduction.
+
+-Ideal Cabinetry Web & Database Developer (2017-2018): Managed 15
+e-commerce sites; launched 5 new sites; led data migrations; coordinated
+subcontracted teams.
+
+-MetaMorphic Games-Producer/Programmer (2014): Unity/C++ mobile; team
+coordination; performance optimizations.
+
+-AISE Service Inc.-Marketing & Technology Manager; Vice President
+(2007-2013): Business ops, contracts, logistics, technology oversight.
+
+-Higher Mind LLC Business Development Manager (2011-2012): Assessed
+software viability; strategy for multi-million-dollar initiatives.
+
+-Independent Game Projects (2008-2009): Steam Tower, Polar Panic, The
+Broken Z-C++/Unity gameplay/engine programming.
+
+KEY PROJECT HIGHLIGHTS:
+
+-AIOps + ServiceNow Automation (Disney, POC): AI-assisted ticket
+creation and toil reduction within custom pipelines.
+
+-Telemetry Under Constraints (Disney, POC): Cruise-to-shore telemetry
+API validated via Postman for intermittent connectivity; dashboard plan
+documented.
+
+-Secure Enterprise Modernization (Humana): .NET Core modernization + SQL
+tuning yielding >50% faster data operations.
+
+-USSOCOM Mission Software (QP/Deploy360): 15+ reliable apps and advanced
+OS integrations; coached 10 developers; multi-million-dollar delivery.
